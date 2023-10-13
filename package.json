@@ -1,0 +1,16 @@
+{
+  "name": "ru.netology",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint",
+    "prettier": "prettier"
+  },
+  "devDependencies": {
+    "eslint": "^8.51.0",
+    "prettier": "^3.0.3"
+  },
+  "author": "Kozlova Natalia",
+  "license": "ISC"
+}
